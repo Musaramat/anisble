@@ -24,3 +24,13 @@
 ![ani](./IMGS/ani11.jpg)
 
 ![ani](./IMGS/ani12.jpg)
+
+![ani](./IMGS/ani13.jpg)
+
+![ani](./IMGS/ani14.jpg)
+
+![ani](./IMGS/ani15.jpg)
+
+![ani](./IMGS/ani16.jpg)
+
+![ani](./IMGS/ani17.jpg)
