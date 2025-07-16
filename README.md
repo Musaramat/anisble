@@ -19,3 +19,8 @@
 
 ![ani](./IMGS/ani9.jpg)
 
+![ani](./IMGS/ani10.jpg)
+
+![ani](./IMGS/ani11.jpg)
+
+![ani](./IMGS/ani12.jpg)
